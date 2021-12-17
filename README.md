@@ -1,7 +1,7 @@
 # Campo_J_Garcia_C_Golfscript
 
 |Built-ins |Application |Example|Output|
----------------------------------------
+|----------|------------|-------|------|
 |+ |Addition / concat|1 2 +|3|
 |* | multiplication |1 2 * |2
 
