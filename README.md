@@ -40,6 +40,7 @@ Input: {.!{1}{,{)}%{*}*}if}:fact;
 Output: 120
 
 
+
 References:
 
 Golfscript Tutorial. (n.d.).  Golfscript. Retrieved from: http://www.golfscript.com/golfscript/index.html
