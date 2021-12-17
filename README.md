@@ -41,8 +41,11 @@ Output: 120
 
 
 References:
+
 Golfscript Tutorial. (n.d.).  Golfscript. Retrieved from: http://www.golfscript.com/golfscript/index.html
+
 Roche, D. (2021, November 17).  Golfscript. USNA. https://www.usna.edu/Users/cs/roche/413/proj/golfscript.php
+
 Wayne, H. (2021, May 16).  A BRIEF INTRODUCTION TO ESOTERIC LANGUAGES. Hillel Wayne. https://www.hillelwayne.com/talks/esolangs/
 
 
