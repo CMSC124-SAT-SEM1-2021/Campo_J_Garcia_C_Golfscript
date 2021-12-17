@@ -4,11 +4,7 @@
 |----------|------------|-------|------|
 |+ |Addition / concat|1 2 +|3|
 |* | multiplication |1 2 * |2
-
-
-Array/string repeat
-[1 2 ] 2 *
-[1 2 1 2]
+| | Array/string repeat | [1 2 ] 2 * | [1 2 1 2]
 
 
 join
